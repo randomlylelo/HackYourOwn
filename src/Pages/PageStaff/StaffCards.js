@@ -139,7 +139,7 @@ const Tye = () => (
 
 const Johnathan = () => (
   <ResponsiveAvatarCards src="/images/staff/johnathan.png" name="Johnathan">
-    Volunteer, Engineer
+    Global Community Lead
   </ResponsiveAvatarCards>
 );
 
